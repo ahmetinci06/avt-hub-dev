@@ -73,7 +73,7 @@ docs(progress): websocket gerçek zamanlı veri akışı - yapılıyor → revie
 
 ## 📅 Haftalık Özet
 
-> Her Cuma günü ekip lideri bu bölümü günceller.
+> Her Cuma günü ekip sorumlusu bu bölümü günceller.
 
 ### Hafta: [tarih aralığı]
 - **Tamamlanan:**

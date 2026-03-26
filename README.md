@@ -6,7 +6,7 @@
 - [📊 PROGRESS.md](PROGRESS.md) — Görev durumları ve ilerleme
 - [🐛 BUGS.md](BUGS.md) — Bug raporları ve debug takibi
 
-> Her değişiklik PR ile yapılır. Review: @ahmetinci06 & Yaver (AI CTO)
+> Her değişiklik PR ile yapılır. Review: @ahmetinci06 (Aİ) & Yaver (AI CTO)
 
 ---
 
@@ -285,8 +285,7 @@ main          ← Stabil, yarışmaya hazır kod
 
 ## 📞 İletişim
 
-**Takım Kaptanı:** Ahmet Alperen İnci  
-**GitHub:** [@ahmetinci06](https://github.com/ahmetinci06)
+**Ahmet İnci (Aİ)** — @ahmetinci06  
 
 ---
 
