@@ -1,5 +1,17 @@
 # 🏎️ AVT Racing — Ana Geliştirme Hub'ı
 
+## 📊 İlerleme & Çalışma Akışı
+
+- [🔄 WORKFLOW.md](WORKFLOW.md) — Çalışma akışı ve PR kuralları
+- [📊 PROGRESS.md](PROGRESS.md) — Görev durumları ve ilerleme
+- [🐛 BUGS.md](BUGS.md) — Bug raporları ve debug takibi
+
+> Her değişiklik PR ile yapılır. Review: @ahmetinci06 & Yaver (AI CTO)
+
+---
+
+
+
 > **avt-hub-dev** — AVT Racing takımının merkezi geliştirme deposu. Dashboard, web arayüzü ve tüm ekip koordinasyonunun yönetildiği ana repo.
 
 [![TEKNOFEST 2026](https://img.shields.io/badge/TEKNOFEST-2026-red)](https://teknofest.org)
